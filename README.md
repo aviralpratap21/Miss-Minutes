@@ -1,4 +1,4 @@
-# PRODIGY_WD_02
+# Miss Minutes
 <h1>Stopwatch(Miss Minutes)</h1>
 
 <p>
